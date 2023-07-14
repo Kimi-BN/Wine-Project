@@ -1,0 +1,654 @@
+,Name,Country,Region,Winery,Rating,NumberOfRatings,Price,Year,Types
+0,Berg Riesling 2018,France,Alsace,Domaine Pfister,4.2,25,15.9,2018,White
+1,Mâcon-Prissé 2014,France,Mâcon-Prissé,Les Héritiers du Comte Lafon,3.7,25,25.92,2014,White
+2,Muscadet Sèvre-et-Maine Sur Lie 2017,France,Muscadet-Sevre et Maine,Marc Brédif,3.9,25,14.38,2017,White
+3,Côte de Rouffach Pinot Gris 2017,France,Alsace,René Muré,4.1,25,15.5,2017,White
+4,Pouilly-Vinzelles En Paradis 2018,France,Pouilly-Vinzelles,Louis Latour,3.8,26,15.98,2018,White
+5,Villa Blanche Sauvignon Blanc 2018,France,Pays d'Oc,Calmel & Joseph,3.4,26,7.4,2018,White
+6,Meursault Blanc 2017,France,Meursault,Bouchard Père & Fils,3.8,26,38.7,2017,White
+7,Chablis 1er Cru 'Vaillons' 2018,France,Chablis 1er Cru 'Vaillons',Domaine Servin,3.8,26,22.5,2018,White
+8,Doria 2017,France,Luberon,Marrenon,3.5,26,11.99,2017,White
+9,Chardonnay 2019,France,Vin de France,Château Pesquie,3.6,26,8.1,2019,White
+10,Châteauneuf-du-Pape Prestige 2012,France,Châteauneuf-du-Pape,Domaine de la Janasse,4.1,26,69.95,2012,White
+11,Sancerre Blanc 2019,France,Sancerre,Pascal Jolivet,4.1,26,24.24,2019,White
+12,Arcane 2018,France,Saumur,Château de Fosse-Sèche,4.0,26,27.2,2018,White
+13,Vieilles Vignes Côtes Catalanes Blanc 2015,France,Côtes Catalanes,Gauby,4.0,26,29.15,2015,White
+14,Bandol Blanc 2016,France,Bandol,Domaine de la Tour du Bon,3.8,26,18.84,2016,White
+15,Pessac-Léognan Blanc 2015,France,Pessac-Léognan,Château Gazin Rocquencourt,4.0,26,34.15,2015,White
+16,Embruns de Viognier 2019,France,Pays d'Oc,Michel Gassier,3.5,26,9.68,2019,White
+17,L'Aubinière Muscadet Sèvre et Maine Sur Lie 2018,France,Muscadet-Sevre et Maine,Terroirs de la Noëlle,3.4,27,6.5,2018,White
+18,Bordeaux Blanc Sec 2016,France,Bordeaux Sec,Château Lafaurie-Peyraguey,3.9,27,67.75,2016,White
+19,Bourgogne Blanc Retour des Flandres 2016,France,Bourgogne,Régnard,3.6,27,20.65,2016,White
+20,Sauvignon Blanc 2019,France,Pays d'Oc,Paul Mas,3.7,27,5.5,2019,White
+21,Bourgogne Hautes Côtes de Beaune Blanc 2007,France,Bourgogne Hautes-Côtes de Beaune,Jayer Gilles,3.4,27,25.0,2007,White
+22,Riesling 2017,France,Alsace,Albert Boxler,3.9,28,27.78,2017,White
+23,Chardonnay 2018,France,Pays d'Oc,Abbotts & Delaunay,3.7,28,6.73,2018,White
+24,Chinon Blanc 2017,France,Chinon,Château de Saint Louans,4.2,28,27.29,2017,White
+25,Riesling Alsace Grand Cru 'Geisberg' 2012,France,Alsace Grand Cru 'Geisberg',Trimbach,4.4,28,53.35,2012,White
+26,Les Chays Condrieu 2015,France,Condrieu,Chirat,4.0,28,41.43,2015,White
+27,Saumur Blanc 2018,France,Saumur,Langlois-Chateau,3.7,28,11.16,2018,White
+28,Bourgogne Aligoté 2018,France,Bourgogne Aligoté,Louis Jadot,3.5,28,12.6,2018,White
+29,Le Chardonnay Limoux Blanc 2014,France,Limoux,Domaine de Baron'arques,3.8,28,37.82,2014,White
+30,Berger Baron Bordeaux Blanc 2017,France,Bordeaux,Baron Philippe de Rothschild,3.1,28,8.72,2017,White
+31,Meursault-Genevrières Premier Cru 2013,France,Meursault 1er Cru 'Genevrières',Domaine Jean Monnier & Fils,4.0,28,95.36,2013,White
+32,Côtes du Rhône Le Caillou Blanc 2017,France,Côtes-du-Rhône,Clos du Caillou,3.4,29,10.9,2017,White
+33,Cuvée Bérengère Chardonnay - Viognier 2018,France,Coteaux-d'Ensérune,Regismont,3.5,29,6.12,2018,White
+34,Clos Boucher Condrieu 2017,France,Condrieu,Delas,4.1,29,58.39,2017,White
+35,Sauvignon 2018,France,Loire Valley,Domaine de la Foliette,3.4,29,7.7,2018,White
+36,Chardonnay 2018,France,Pays d'Oc,Domaine d'Aubaret,3.5,29,6.95,2018,White
+37,Réserve Spéciale Sauvignon Blanc 2019,France,Pays d'Oc,Gérard Bertrand,3.9,29,8.32,2019,White
+38,Bourgogne Blanc 2014,France,Bourgogne,Domaine Bruno Clair,3.8,29,23.29,2014,White
+39,Pouilly-Fuissé Pentacrine 2016,France,Pouilly-Fuissé,Domaine Saumaize-Michelin,4.0,29,24.08,2016,White
+40,Clisson 2017,France,Muscadet-Sevre et Maine,Pépière,3.5,29,17.06,2017,White
+41,Châteauneuf-du-Pape Blanc 2017,France,Châteauneuf-du-Pape,Château de Nalys,3.8,29,66.0,2017,White
+42,Châteauneuf-du-Pape Blanc 2018,France,Châteauneuf-du-Pape,Château Mont-Redon,3.9,29,28.18,2018,White
+43,Beaune 1er Cru Grèves Blanc 2011,France,Beaune 1er Cru 'Les Grèves',Jean-Marc Morey,4.3,30,48.43,2011,White
+44,Chablis 1er Cru 'Vaillons' 2015,France,Chablis 1er Cru 'Vaillons',La Chablisienne,3.6,30,23.9,2015,White
+45,Côtes de Provence Blanc 2018,France,Côtes de Provence,Château de Pampelonne,3.6,30,14.4,2018,White
+46,Clos Saint Landelin Riesling 2016,France,Alsace,René Muré,4.0,30,29.15,2016,White
+47,Novel Pacherenc du Vic-Bilh Sec 2017,France,Pacherenc du Vic-Bilh Sec,Vignobles Marie Maria,3.8,30,13.25,2017,White
+48,Chardonnay Bourgogne 2017,France,Bourgogne,Frédéric Magnien,3.5,30,15.5,2017,White
+49,Languedoc Blanc 2017,France,Languedoc,Mortiès,3.6,30,16.9,2017,White
+50,Saint-Aubin 1er Cru 'Les Charmois' 2015,France,Saint-Aubin 1er Cru 'Le Charmois',Domaine Sylvain Morey,4.2,30,64.0,2015,White
+51,Meursault Blanc 2016,France,Meursault,Bouchard Père & Fils,3.9,30,48.09,2016,White
+52,Sancerre Blanc 2018,France,Sancerre,La Poussie,3.9,30,27.2,2018,White
+53,Meursault 2016,France,Meursault,Domaine Henri Delagrange et Fils,4.2,30,46.21,2016,White
+54,Pouilly-Fuissé 2016,France,Pouilly-Fuissé,Les Héritiers du Comte Lafon,4.1,30,56.83,2016,White
+55,Blanc 2016,France,Côtes Catalanes,Domaine de l'Horizon,4.1,30,35.58,2016,White
+56,Château Les Vergnes Bordeaux White 2018,France,Bordeaux,Univitis,3.3,30,6.78,2018,White
+57,Chante-Alouette Hermitage Blanc 1999,France,Hermitage,M. Chapoutier,3.4,30,55.95,1999,White
+58,Pouilly-Fuissé L'Ancien Prieuré 2015,France,Pouilly-Fuissé,Régnard,3.7,31,43.16,2015,White
+59,Châteauneuf-du-Pape (Tradition) Blanc 2018,France,Châteauneuf-du-Pape,Domaine de la Janasse,4.1,31,49.9,2018,White
+60,Pinot Blanc 2016,France,Alsace,Jean-Rémy Haeffelin,3.7,31,7.59,2016,White
+61,Sancerre Blanc 2018,France,Sancerre,Alban Roblin,3.8,31,18.31,2018,White
+62,Cavalcade Blanc 2018,France,Côtes du Roussillon,Château de Corneilla,4.1,31,12.14,2018,White
+63,Meursault 1er Cru Les Genevrières 2017,France,Meursault Premier Cru,Domaine Henri Boillot,4.1,31,119.0,2017,White
+64,Les Genêts 2016,France,Provence,Château de Roquefort,3.7,31,14.9,2016,White
+65,Château de la Chesnaie Sur Lie 2017,France,Muscadet-Sevre et Maine,Chéreau-Carré,3.8,31,8.24,2017,White
+66,Sauvignon Côtes de Gascogne 2019,France,Côtes de Gascogne,Domaine du Tariquet,3.7,32,5.9,2019,White
+67,Chablis 2018,France,Chablis,Domaine Servin,3.6,32,16.5,2018,White
+68,Sauvignon Touraine 2018,France,Touraine,Raphael Midoir,3.8,32,7.95,2018,White
+69,Petit Chablis 2018,France,Petit Chablis,Gerard Tremblay,3.6,32,11.99,2018,White
+70,Rully 2016,France,Rully,Chanson,3.6,32,21.95,2016,White
+71,Bordeaux Blanc 2017,France,Bordeaux,Château Mont-Pérat,3.5,32,18.3,2017,White
+72,Sancerre 2018,France,Sancerre,Monmousseau,4.1,32,19.5,2018,White
+73,Vieilles Vignes Chassagne-Montrachet 2017,France,Chassagne-Montrachet,David Moret-Nomine,4.3,32,52.9,2017,White
+74,Hermitage Blanc 2016,France,Hermitage,E. Guigal,4.0,32,52.01,2016,White
+75,A Le Grand 2017,France,Bourgogne Aligoté,David Moret-Nomine,3.8,32,13.5,2017,White
+76,Meursault-Blagny Premier Cru Château de Blagny 2017,France,Meursault 1er Cru 'Blagny',Louis Latour,4.1,33,53.51,2017,White
+77,Luberon La Ciboise Blanc 2018,France,Luberon,M. Chapoutier,3.6,33,7.66,2018,White
+78,Domaine San de Guilhem Colombard - Sauvignon Blanc Gascogne Blanc Sec 2016,France,Gascogne,Lionel Osmin & Cie,3.5,33,5.31,2016,White
+79,Viognier Principauté d'Orange 2019,France,Vin de Pays,Domaine de la Janasse,4.0,33,14.9,2019,White
+80,Riesling Alsace Grand Cru 'Geisberg' 2013,France,Alsace Grand Cru 'Geisberg',Trimbach,4.3,33,71.39,2013,White
+81,Bâtard-Montrachet Grand Cru 2015,France,Bâtard-Montrachet Grand Cru,Domaine Henri Boillot,4.6,33,520.0,2015,White
+82,Estate Gewürztraminer 2012,France,Alsace Grand Cru,Hugel,3.9,33,16.95,2012,White
+83,Pouilly-Fumé 2018,France,Pouilly-Fumé,Langlois-Chateau,3.8,33,19.9,2018,White
+84,Picpoul de Pinet 2019,France,Picpoul de Pinet,Gérard Bertrand,3.9,34,10.42,2019,White
+85,Pouilly-Fuissé Pentacrine 2015,France,Pouilly-Fuissé,Domaine Saumaize-Michelin,3.9,34,23.49,2015,White
+86,Pouilly-Fuissé 'Les Chailloux' 2017,France,Pouilly-Fuissé,Auvigue,3.9,34,25.9,2017,White
+87,1769 Clos Venturi Blanc 2018,France,Vin de Corse,Domaine Vico,3.7,34,15.9,2018,White
+88,Vignes Blanches Pouilly-Fuissé 2017,France,Pouilly-Fuissé,Domaine Saumaize-Michelin,4.1,34,25.15,2017,White
+89,Montrachet Grand Cru Marquis de Laguiche 2017,France,Montrachet Grand Cru,Joseph Drouhin,4.9,34,681.37,2017,White
+90,Baronne Charlotte Graves Blanc 2016,France,Graves,Baron Philippe de Rothschild,3.8,34,16.59,2016,White
+91,Viognier 2015,France,Vin de Pays,Bomont de Cormeil,4.1,35,18.9,2015,White
+92,Viognier 2016,France,Pays d'Oc,Baron Philippe de Rothschild,3.7,35,8.69,2016,White
+93,Chassagne-Montrachet Premier Cru 2017,France,Chassagne-Montrachet Premier Cru,Louis Latour,4.0,35,59.99,2017,White
+94,Picpoul de Pinet 2017,France,Picpoul de Pinet,Mas des Mas,3.3,35,8.68,2017,White
+95,Colombard - Ugni Blanc 2018,France,Côtes de Gascogne,Château de Millet,3.3,35,5.5,2018,White
+96,Hermitage Le Chevalier de Sterimberg 2017,France,Hermitage,Paul Jaboulet Aîné,4.3,35,78.75,2017,White
+97,Gewürztraminer 2018,France,Alsace,Boeckel,3.4,35,12.95,2018,White
+98,Riesling Alsace Grand Cru 'Engelberg' 2016,France,Alsace Grand Cru 'Engelberg',Domaine Pfister,4.3,35,28.5,2016,White
+99,Châteauneuf-du-Pape (La Crau) Blanc 2017,France,Châteauneuf-du-Pape,Domaine du Vieux Télégraphe,3.9,35,73.29,2017,White
+100,Riesling Alsace Grand Cru 'Schlossberg' 2014,France,Alsace Grand Cru 'Schlossberg',Trimbach,4.0,36,48.45,2014,White
+101,La Croix Boissée Chinon Blanc 2018,France,Chinon,Bernard Baudry,4.2,36,24.95,2018,White
+102,Mercurey 'En Pierrelet' Blanc 2016,France,Mercurey,Château de Chamirey,4.1,36,38.75,2016,White
+103,Chardonnay 2019,France,Pays d'Oc,Les Jamelles,3.6,36,6.05,2019,White
+104,Rully 1er Cru 'Rabourcé' 2017,France,Rully 1er Cru 'Rabourcé',Domaine Belleville,4.1,36,31.0,2017,White
+105,Domaine Sainte Barbe La Perrière Viré-Clessé 2016,France,Viré-Clessé,Chaland Jean-Marie,3.7,36,20.37,2016,White
+106,Réserve Graves Blanc 2017,France,Graves,Mouton Cadet,3.4,36,14.83,2017,White
+107,Little James' Basket Press Blanc 2019,France,Pays d'Oc,Château de Saint Cosme,3.6,36,7.9,2019,White
+108,Chardonnay 2018,France,Pays d'Oc,Les Salices,3.5,36,7.1,2018,White
+109,Chardonnay 2019,France,Côtes de Thongue,Domaine Montrose,3.5,36,8.69,2019,White
+110,Les Princes Abbés Muscat Alsace 2018,France,Alsace,Domaines Schlumberger,3.6,36,16.4,2018,White
+111,Chassagne-Montrachet 1er Cru 'Les Chaumées' 2014,France,Chassagne-Montrachet 1er Cru 'Les Chaumes',Vincent Girardin,4.3,36,65.9,2014,White
+112,Meursault 1er Cru 'Les Charmes-Dessus' 2013,France,Meursault 1er Cru 'Charmes',Vincent Girardin,4.2,37,84.9,2013,White
+113,Petit Chablis 2018,France,Petit Chablis,Louis Michel & Fils,3.7,37,19.35,2018,White
+114,Amstramgram Quartier Libre 2018,France,Languedoc-Roussillon,Calmel & Joseph,3.4,37,7.75,2018,White
+115,Fief Guérin Vieilles Vignes Muscadet Côtes de Grandlieu Sur Lie 2018,France,Muscadet-Côtes de Grandlieu,Domaine des Herbauges,3.4,37,10.69,2018,White
+116,Côtes De Gascogne Amplitude 2018,France,Côtes de Gascogne,Domaine du Tariquet,3.4,37,9.0,2018,White
+117,Châteauneuf-du-Pape Blanc 2017,France,Châteauneuf-du-Pape,Domaine de Beaurenard,4.0,37,35.0,2017,White
+118,Chassagne-Montrachet 1er Cru Morgeot Monopole Clos de La Chapelle Blanc 2017,France,Chassagne-Montrachet 1er Cru 'Morgeot',Louis Jadot - Domaine Duc de Magenta,4.4,37,98.15,2017,White
+119,Corton-Charlemagne Grand Cru 2017,France,Corton-Charlemagne Grand Cru,Joseph Drouhin,4.5,38,184.23,2017,White
+120,101 Rangs Pouilly-Fumé 2016,France,Pouilly-Fumé,Château de Tracy,4.1,38,64.34,2016,White
+121,Cuvée Passion Bordeaux Blanc 2016,France,Bordeaux,Château Tour de Mirambeau,3.7,38,15.5,2016,White
+122,Beaune du Château Premier Cru Blanc 2016,France,Beaune Premier Cru,Bouchard Père & Fils,3.9,38,38.56,2016,White
+123,Hermitage Le Chevalier de Sterimberg 2006,France,Hermitage,Paul Jaboulet Aîné,4.1,38,77.35,2006,White
+124,Meursault 1er Cru 'Genevrières' Blanc 2016,France,Meursault 1er Cru 'Genevrières',Bouchard Père & Fils,4.2,39,94.57,2016,White
+125,Ermitage Ex-Voto Blanc 2012,France,Hermitage,E. Guigal,4.4,39,189.0,2012,White
+126,Saumur Blanc 2017,France,Saumur,Langlois-Chateau,3.7,39,12.14,2017,White
+127,Coume Gineste Côtes Catalanes 2011,France,Côtes Catalanes,Gauby,3.8,39,67.26,2011,White
+128,Meursault 'Les Chevalières' 2017,France,Meursault,Xavier Monnot,4.2,39,62.5,2017,White
+129,Villa Paulus Pouilly-Fumé 2018,France,Pouilly-Fumé,Domaine Masson-Blondelet,3.9,39,18.04,2018,White
+130,Corton-Charlemagne Grand Cru 2015,France,Corton-Charlemagne Grand Cru,Domaine Henri Boillot,4.3,40,189.0,2015,White
+131,Les Châtillons Chablis 2015,France,Chablis,Domaine des Hâtes,4.1,40,19.43,2015,White
+132,Chassagne-Montrachet Blanc 2016,France,Chassagne-Montrachet,Louis Jadot,4.4,40,71.39,2016,White
+133,Les Vignes de Saint Laurent l'Abbaye Pouilly-Fumé 2017,France,Pouilly-Fumé,Domaine Chatelain,3.9,40,13.6,2017,White
+134,Meursault 1er Cru Les Genevrières 2015,France,Meursault Premier Cru,Domaine Henri Boillot,4.2,40,119.0,2015,White
+135,Les Chailloux Silex Pouilly-Fumé 2018,France,Pouilly-Fumé,Domaine Chatelain,3.8,40,14.55,2018,White
+136,Genèse Riesling 2011,France,Alsace,Vignoble des 2 Lunes,4.0,40,14.57,2011,White
+137,Terroir d'Altitude Chardonnay 2017,France,Pays d'Oc,Fortant,3.9,40,9.5,2017,White
+138,Saint-Véran 2018,France,Saint-Véran,Trénel,3.8,40,14.95,2018,White
+139,Petit Chablis 2018,France,Petit Chablis,Domaine Philippe Goulley,3.6,41,17.2,2018,White
+140,Chardonnay 2018,France,Pays d'Oc,Cap Cette,3.3,41,7.5,2018,White
+141,La Soufrandiére Le Clos de Grand Pére Macon-Vinzelles 2017,France,Mâcon-Vinzelles,Bret Brothers & The Soufrandière,4.1,41,27.5,2017,White
+142,Pouilly-Fumé Terres Blanches 2018,France,Pouilly-Fumé,Pascal Jolivet,3.8,41,26.18,2018,White
+143,Domaine Sainte Barbe Les Tilles Mâcon-Villages 2018,France,Mâcon-Villages,Chaland Jean-Marie,3.6,41,14.5,2018,White
+144,Montagny 1er Cru 'Les Saint Morilles' 2015,France,Montagny 1er Cru 'Saint-Morille',Berthenet,3.7,41,19.37,2015,White
+145,Sancerre Blanc 2017,France,Sancerre,Langlois-Chateau,3.7,41,10.0,2017,White
+146,Vieilles Vignes Châteauneuf-du-Pape Blanc 2015,France,Châteauneuf-du-Pape,Château de Beaucastel,4.4,41,154.99,2015,White
+147,Estate Gewürztraminer 2013,France,Alsace Grand Cru,Hugel,4.0,41,20.47,2013,White
+148,Pinot Blanc Tradition 2018,France,Alsace,Emile Beyer,4.0,42,11.49,2018,White
+149,Leflaive & Associes Auxey-Duresses 2016,France,Auxey-Duresses,Domaine Leflaive,3.9,42,49.9,2016,White
+150,Lou Coucardié Blanc 2015,France,Costières-de-Nîmes,Michel Gassier,4.0,42,23.05,2015,White
+151,La Femme Soleil 2018,France,Languedoc-Roussillon,Domaine Hors Champ,3.4,42,21.45,2018,White
+152,Meursault Premier Cru 'Les Charmes' 2017,France,Meursault 1er Cru 'Charmes',Domaine du Pavillon,4.2,42,70.0,2017,White
+153,Picpoul de Pinet 2019,France,Picpoul de Pinet,Domaine de Belle Mare,3.9,43,6.73,2019,White
+154,Corton-Charlemagne Grand Cru Blanc 2016,France,Corton-Charlemagne Grand Cru,Bouchard Père & Fils,4.5,43,178.96,2016,White
+155,Chablis 2018,France,Chablis,Domaine Philippe Goulley,3.8,43,19.95,2018,White
+156,Muscadet-Sèvre et Maine Sur Lie 2019,France,Muscadet-Sevre et Maine,Pépière,3.6,43,9.36,2019,White
+157,Riesling Alsace Grand Cru 'Sommerberg' 2016,France,Alsace Grand Cru 'Sommerberg',Albert Boxler,4.0,43,53.22,2016,White
+158,Riesling Alsace 2015,France,Alsace,Kuehn,3.6,43,8.48,2015,White
+159,Puligny-Montrachet 2017,France,Puligny-Montrachet,Domaine Henri Boillot,4.3,43,59.9,2017,White
+160,Pinot Gris Tradition 2017,France,Alsace,Emile Beyer,3.8,43,13.2,2017,White
+161,Hermitage Le Chevalier de Sterimberg 2016,France,Hermitage,Paul Jaboulet Aîné,4.2,43,78.75,2016,White
+162,Corton-Charlemagne Grand Cru 2016,France,Corton-Charlemagne Grand Cru,Domaine Henri Boillot,4.5,43,189.0,2016,White
+163,Sancerre Blanc 2018,France,Sancerre,Michel Thomas & Fils,3.7,43,18.08,2018,White
+164,Meursault-Charmes Premier Cru 2016,France,Meursault 1er Cru 'Charmes',Domaine Jean Monnier & Fils,3.8,43,86.62,2016,White
+165,Pouilly-Fumé 2016,France,Pouilly-Fumé,Langlois-Chateau,3.7,44,21.66,2016,White
+166,Mâcon-Villages 2016,France,Mâcon-Villages,Daniel Pollier,3.6,44,9.54,2016,White
+167,Chablis 2018,France,Chablis,Joseph Drouhin,3.6,44,19.3,2018,White
+168,Château-Thébaud 2014,France,Muscadet-Sevre et Maine,Pépière,4.0,44,17.06,2014,White
+169,Riesling Alsace Grand Cru 'Kitterlé' 2017,France,Alsace Grand Cru 'Kitterle',Domaines Schlumberger,3.9,44,25.24,2017,White
+170,Côte de Rouffach Gewürztraminer 2016,France,Alsace,René Muré,3.9,44,15.5,2016,White
+171,Classic Graves Blanc 2016,France,Graves,Château Brondelle,3.6,44,11.95,2016,White
+172,Les Menétrieres Pouilly-Fuissé (Cuvée Hors-Classe) 2016,France,Pouilly-Fuissé,J.A. Ferret,4.4,44,63.06,2016,White
+173,Ermitage de l'Orée 2004,France,Hermitage,M. Chapoutier,4.8,44,189.95,2004,White
+174,Signature Blanc 2019,France,Côtes de Gascogne,Domaine Saint-Lannes,3.7,44,5.95,2019,White
+175,Châteauneuf-du-Pape La Bernardine Blanc 2016,France,Châteauneuf-du-Pape,M. Chapoutier,3.6,44,33.46,2016,White
+176,Les Vieilles Vignes Meursault 2016,France,Meursault,Vincent Girardin,4.0,44,70.3,2016,White
+177,Corton-Charlemagne Grand Cru 2016,France,Corton-Charlemagne Grand Cru,Joseph Drouhin,4.3,45,195.0,2016,White
+178,Sauvignon Blanc Bordeaux 2010,France,Bordeaux,Dourthe N°1,3.0,45,8.95,2010,White
+179,Domaine de Fontenille Pouilly-Fumé 2018,France,Pouilly-Fumé,Patrick Maudry,3.9,45,18.97,2018,White
+180,Les Deux Tours Sauvignon Blanc 2018,France,Loire Valley,de Ladoucette,4.0,46,15.3,2018,White
+181,Classic Riesling 2018,France,Alsace,Hugel,3.7,46,14.75,2018,White
+182,La Falaise Languedoc Blanc 2016,France,Languedoc,Château la Négly,4.1,46,19.01,2016,White
+183,Bordeaux Blanc 2016,France,Bordeaux,Château de Ricaud,3.4,46,7.44,2016,White
+184,Riesling Alsace 2016,France,Alsace,Kuehn,3.7,46,8.48,2016,White
+185,Corton-Charlemagne Grand Cru 2016,France,Corton-Charlemagne Grand Cru,Domaine des Héritiers Louis Jadot,4.4,47,189.39,2016,White
+186,Chardonnay 2018,France,Pays d'Oc,Croix d'Or,3.8,47,6.9,2018,White
+187,Châteauneuf-du-Pape Vieilles Vignes Blanc 2006,France,Châteauneuf-du-Pape,Tardieu-Laurent,4.2,47,46.95,2006,White
+188,Chablis Vieilles Vignes 2017,France,Chablis,Château de Chemilly,4.0,47,16.5,2017,White
+189,Bourgogne Hautes-Côtes de Beaune Chardonnay 2018,France,Bourgogne Hautes-Côtes de Beaune,Domaine Henri Delagrange et Fils,3.4,47,16.83,2018,White
+190,Chassagne-Montrachet 1er Cru 'Cailleret' 2012,France,Chassagne-Montrachet 1er Cru 'Cailleret',Jean-Marc Morey,4.0,47,86.62,2012,White
+191,Mâcon-Verzé 2018,France,Mâcon-Villages,Domaine Leflaive,4.1,47,31.9,2018,White
+192,La Galopine Condrieu 2017,France,Condrieu,Delas,4.1,48,44.75,2017,White
+193,Le G de Guiraud Bordeaux Blanc Sec 2019,France,Bordeaux,Château Guiraud,4.0,48,14.52,2019,White
+194,Les Côtes aux Valets Sancerre Blanc 2015,France,Sancerre,Henri Bourgeois,4.2,48,50.69,2015,White
+195,Pouilly-Fuissé Vielles Vignes 2016,France,Pouilly-Fuissé,Daniel Pollier,3.7,48,16.08,2016,White
+196,Grand Marrenon Blanc 2018,France,Luberon,Marrenon,3.5,48,11.5,2018,White
+197,Sauvignon 2018,France,Bordeaux,Le Petit Baigneur,3.4,49,6.49,2018,White
+198,Riesling 2015,France,Alsace,Albert Boxler,4.0,49,25.44,2015,White
+199,Meursault 'Les Narvaux' 2017,France,Meursault,David Moret-Nomine,4.2,49,63.9,2017,White
+200,Luberon 2019,France,Luberon,Famille Perrin,3.6,49,5.71,2019,White
+201,Montserre Chablis 2017,France,Chablis,Château de Béru,4.2,49,35.0,2017,White
+202,Les Grands Calcaires Cotes du Rhône 2017,France,Côtes-du-Rhône,Domaine Santa Duc,3.6,49,9.2,2017,White
+203,Meursault-Charmes Premier Cru 2015,France,Meursault 1er Cru 'Charmes',Domaine Jean Monnier & Fils,4.2,49,90.2,2015,White
+204,Chablis Grand Cru 'Les Preuses' 2015,France,Chablis Grand Cru 'Preuses',Domaine William Fèvre,4.1,49,97.81,2015,White
+205,Vieilles Vignes Chablis 2013,France,Chablis,Roland Lavantureux,3.9,49,52.0,2013,White
+206,Les Cépages Sauvignon Blanc 2018,France,Pays d'Oc,Baron Philippe de Rothschild,3.1,50,7.75,2018,White
+207,Condrieu 2017,France,Condrieu,Tardieu-Laurent,3.8,50,47.2,2017,White
+208,Viré-Clessé 2015,France,Viré-Clessé,Chanson,3.8,50,18.08,2015,White
+209,Nicole Vineyard Viognier Réserve 2019,France,Pays d'Oc,Paul Mas,3.7,50,8.32,2019,White
+210,Chablis 1er Cru 'Vau Ligneau' 2018,France,Chablis 1er Cru 'Vau Ligneau',Alain Geoffroy,3.6,50,24.18,2018,White
+211,Blandine Le Blanc 2018,France,Côtes de Gascogne,Château du Cèdre,3.6,50,5.9,2018,White
+212,Petit Chablis 2017,France,Petit Chablis,Château de Chemilly,4.0,50,13.9,2017,White
+213,Les Vieilles Vignes Chablis 2017,France,Chablis,Pascal Bouchard,4.1,51,23.5,2017,White
+214,Extra Blanc 2018,France,Languedoc-Roussillon,Gérard Bertrand,3.4,51,10.68,2018,White
+215,Petit Salé de Villeneuve 2019,France,Provence,Château de Roquefort,3.7,52,12.9,2019,White
+216,Gorges 2015,France,Muscadet-Sevre et Maine,Pépière,3.9,52,17.06,2015,White
+217,Gewürztraminer Alsace Grand Cru Hatschbourg 2017,France,Alsace Grand Cru,Wolfberger,4.0,52,18.42,2017,White
+218,Héritage Chardonnay 2018,France,Pays d'Oc,Château Guilhem,3.7,52,6.58,2018,White
+219,Mercurey Clos Rochette 2018,France,Mercurey,Faiveley,4.1,53,20.95,2018,White
+220,Chablis 2018,France,Chablis,Domaine des Héritières,3.6,53,15.06,2018,White
+221,Vignes Blanches Pouilly-Fuissé 2016,France,Pouilly-Fuissé,Domaine Saumaize-Michelin,3.9,53,24.95,2016,White
+222,Chablis 2018,France,Chablis,Chartron et Trébuchet,3.8,53,22.95,2018,White
+223,La Fontaine Aux Enfants Cru d'Alsace 2016,France,Alsace,Marc Kreydenweiss,3.7,53,22.0,2016,White
+224,Gewurztraminer 2016,France,Alsace,Jean-Rémy Haeffelin,3.6,54,10.71,2016,White
+225,La Fontaine Aux Enfants Cru d'Alsace 2015,France,Alsace,Marc Kreydenweiss,3.8,54,22.0,2015,White
+226,Côtes du Rhône Blanc 2018,France,Côtes-du-Rhône,Domaine de la Solitude,4.0,54,8.5,2018,White
+227,Cuvée Vauban Pouilly-Vinzelles 2014,France,Pouilly-Vinzelles,Château de Vinzelles,3.8,54,17.54,2014,White
+228,Pinot Gris Alsace Grand Cru 'Kitterlé' 2010,France,Alsace Grand Cru,Domaines Schlumberger,3.9,54,35.58,2010,White
+229,Sancerre Grande Cuvée Blanc 2017,France,Sancerre,Comte Lafond,4.2,54,38.9,2017,White
+230,Chardonnay 2018,France,Côtes de Thongue,Domaine Montrose,3.7,54,8.39,2018,White
+231,Riesling 2016,France,Alsace,Albert Boxler,3.9,54,26.32,2016,White
+232,Schiste 2018,France,Vins des Allobroges,Domaine des Ardoisieres,4.3,54,44.85,2018,White
+233,Saint-Véran 2016,France,Saint-Véran,Les Héritiers du Comte Lafon,4.0,55,36.33,2016,White
+234,Chablis Premier Cru Fourchaume 2017,France,Chablis Premier Cru,Domaine William Fèvre,4.2,55,49.37,2017,White
+235,Côtes-Du-Rhône Guy Louis Blanc 2017,France,Côtes-du-Rhône,Tardieu-Laurent,3.7,55,19.8,2017,White
+236,Condrieu 2018,France,Condrieu,E. Guigal,3.9,55,45.0,2018,White
+237,Mercurey Blanc 2017,France,Mercurey,Château de Chamirey,4.0,55,32.0,2017,White
+238,Pouilly-Fuissé Clos Sur la Roche 2017,France,Pouilly-Fuissé,Domaine Saumaize-Michelin,4.2,55,28.07,2017,White
+239,Saint-Romain 2017,France,Saint-Romain,David Moret-Nomine,4.3,55,29.9,2017,White
+240,Sancerre 'Les Caillottes' 2019,France,Sancerre,Dauny,3.8,56,15.7,2019,White
+241,Corton-Charlemagne Grand Cru 2016,France,Corton-Charlemagne Grand Cru,Vincent Girardin,4.5,56,156.7,2016,White
+242,Centenaire Côtes du Roussillon Blanc 2018,France,Côtes du Roussillon,Domaine Lafage,3.7,56,12.1,2018,White
+243,Pessac-Léognan Blanc (Grand Cru Classé de Graves) 2005,France,Pessac-Léognan,Domaine de Chevalier,4.2,56,107.95,2005,White
+244,Corton-Charlemagne Grand Cru 1993,France,Corton-Charlemagne Grand Cru,Bonneau du Martray,4.3,56,249.95,1993,White
+245,Villa Grand Cap Blanc 2018,France,Vin de France,Lionel Osmin & Cie,3.4,56,7.3,2018,White
+246,Blanc 2011,France,Côtes Catalanes,Domaine de l'Horizon,3.9,56,39.96,2011,White
+247,La Soufrandière Climat Les Quarts Pouilly-Vinzelles 2017,France,Pouilly-Vinzelles,Bret Brothers & The Soufrandière,4.0,56,46.5,2017,White
+248,Bandol Blanc 2019,France,Bandol,La Suffrene,3.5,56,17.5,2019,White
+249,Bandol Blanc 2018,France,Bandol,Château de Pibarnon,4.0,57,26.04,2018,White
+250,Grande Réserve Muscadet de Sèvre et Maine Sur Lie 2018,France,Muscadet-Sevre et Maine,Dominique Salmon,3.6,57,9.99,2018,White
+251,Parallèle 45 Côtes Du Rhône Blanc 2018,France,Côtes-du-Rhône,Paul Jaboulet Aîné,3.6,57,11.47,2018,White
+252,Riesling K 2016,France,Alsace,Paul Kubler,3.5,57,13.55,2016,White
+253,Les Preuses Chablis Grand Cru 2017,France,Chablis Grand Cru,Domaine Nathalie et Gilles Fevre,4.3,57,65.0,2017,White
+254,Meursault 2016,France,Meursault,Faiveley,4.2,57,46.5,2016,White
+255,Pinot Blanc Classic 2017,France,Alsace,Bestheim,3.4,58,7.99,2017,White
+256,JT Blanc Costières de Nîmes 2016,France,Costières-de-Nîmes,Château de Nages,4.0,58,18.03,2016,White
+257,Santenay Premier Cru 'Gravières' Blanc 2015,France,Santenay 1er Cru 'Les Gravières',Château de la Crée,4.3,58,73.63,2015,White
+258,Sancerre Blanc 2018,France,Sancerre,Dominique et Janine Crochet,4.0,58,15.5,2018,White
+259,Vita Bella Côtes de Provence 2016,France,Côtes de Provence,La Mascaronne,3.9,58,16.5,2016,White
+260,Viognier 2018,France,Pays d'Oc,Baron Philippe de Rothschild,3.6,59,8.78,2018,White
+261,Deux Roches Tradition Mâcon-Villages 2017,France,Mâcon-Villages,Collovray & Terrier,3.9,59,10.97,2017,White
+262,Sauvignon Blanc 2019,France,Pays d'Oc,Les Jamelles,3.5,59,5.46,2019,White
+263,Chassagne-Montrachet 1er Cru Morgeot Monopole Clos de La Chapelle Blanc 2016,France,Chassagne-Montrachet 1er Cru 'Morgeot',Louis Jadot - Domaine Duc de Magenta,4.3,59,98.15,2016,White
+264,Terroir de Saint Alban Blanc Sec 2018,France,Savoie,Mathieu Apffel,3.4,60,16.47,2018,White
+265,Chablis 2018,France,Chablis,Domaine des Hâtes,4.0,60,15.5,2018,White
+266,Touraine Sauvignon 2018,France,Touraine,Domaine Malet,3.6,60,8.57,2018,White
+267,Chassagne-Montrachet 1er Cru 'Cailleret' 2013,France,Chassagne-Montrachet 1er Cru 'Cailleret',Jean-Marc Morey,4.1,60,72.0,2013,White
+268,Pessac-Léognan Blanc 2016,France,Pessac-Léognan,Château de Fieuzal,3.9,61,58.29,2016,White
+269,Ermitage de l'Orée 2003,France,Hermitage,M. Chapoutier,4.0,61,181.5,2003,White
+270,Chablis 2017,France,Chablis,Domaine Jean Dauvissat,3.9,61,22.0,2017,White
+271,Pessac-Léognan Blanc 2005,France,Pessac-Léognan,Château de Fieuzal,4.0,61,44.95,2005,White
+272,Pessac-Léognan Blanc (Grand Cru Classé de Graves) 2005,France,Pessac-Léognan,Château Latour-Martillac,3.9,62,48.95,2005,White
+273,Sancerre Blanc 2018,France,Sancerre,Domaine Salmon,3.9,62,14.9,2018,White
+274,Beaune 1er Cru 'Clos des Mouches' Blanc 2017,France,Beaune 1er Cru 'Le Clos des Mouches',Joseph Drouhin,4.4,62,121.85,2017,White
+275,Vouvray 2018,France,Vouvray,Famille Bougrier,3.8,62,6.95,2018,White
+276,Côtes de Gascogne Les 4 Réserve 2017,France,Côtes de Gascogne,Domaine du Tariquet,3.5,62,8.5,2017,White
+277,Esprit de Crès Ricards Viognier 2016,France,Pays d'Oc,Domaine des Crès Ricards,3.7,63,7.28,2016,White
+278,Le Merle Blanc de Château Clarke Bordeaux Blanc 2018,France,Bordeaux,Château Clarke,4.1,63,27.27,2018,White
+279,Le Cornillard Anjou 2015,France,Anjou,Domaine Patrick Baudouin,4.1,64,33.83,2015,White
+280,Riesling Alsace Signature 2017,France,Alsace,Wolfberger,3.5,64,8.28,2017,White
+281,Vignes de Nicole Chardonnay - Viognier Pays d'Oc 2019,France,Pays d'Oc,Paul Mas,3.8,64,7.37,2019,White
+282,Vieilles Vignes Entre-deux-Mers 2019,France,Entre-deux-Mers,Château Sainte-Marie,3.8,64,10.49,2019,White
+283,Viognier 2018,France,Vin de France,Maison de La Villette,3.6,64,6.41,2018,White
+284,Effusion Anjou 2018,France,Anjou,Domaine Patrick Baudouin,3.9,65,19.88,2018,White
+285,Dame Nature Petit Chablis 2018,France,Petit Chablis,La Chablisienne,3.8,65,13.58,2018,White
+286,Bourgogne Blanc 2016,France,Bourgogne,Domaine Henri Boillot,4.1,65,26.5,2016,White
+287,Chassagne-Montrachet Premier Cru Morgeot Marquis de Laguiche 2016,France,Chassagne-Montrachet Premier Cru,Joseph Drouhin,4.4,65,112.94,2016,White
+288,Chablis 2018,France,Chablis,Ropiteau Freres,3.5,65,16.34,2018,White
+289,Chablis Grand Cru 'Les Clos' 2016,France,Chablis Grand Cru,Louis Michel & Fils,4.3,65,80.57,2016,White
+290,Côtes De Gascogne Chardonnay 2018,France,Côtes de Gascogne,Domaine du Tariquet,3.5,65,7.0,2018,White
+291,Condrieu Les Cassines 2016,France,Condrieu,Paul Jaboulet Aîné,3.9,66,47.52,2016,White
+292,Fourchaume Chablis Premier Cru 2018,France,Chablis Premier Cru,Domaine Nathalie et Gilles Fevre,4.0,66,27.9,2018,White
+293,Riesling 2018,France,Alsace,Boeckel,3.6,66,9.5,2018,White
+294,Savennières Bellevue 2016,France,Savennières,Domaine Patrick Baudouin,4.1,67,36.84,2016,White
+295,Chablis 'Champ des Ducs' 2018,France,Chablis,Alain Geoffroy,3.8,67,18.03,2018,White
+296,Le Merle Blanc de Château Clarke Bordeaux Blanc 2017,France,Bordeaux,Château Clarke,4.3,67,27.06,2017,White
+297,Les Menétrieres Pouilly-Fuissé (Cuvée Hors-Classe) 2015,France,Pouilly-Fuissé,J.A. Ferret,4.2,67,55.24,2015,White
+298,Meursault 'Les Grands Charrons' 2017,France,Meursault,Michel Bouzereau,4.2,67,53.61,2017,White
+299,Châteauneuf-du-Pape Clos La Roquète Blanc 2017,France,Châteauneuf-du-Pape,Domaine La Roquète,4.2,67,49.76,2017,White
+300,Côte de Rouffach Riesling 2016,France,Alsace,René Muré,3.7,68,15.5,2016,White
+301,Chassagne-Montrachet Premier Cru Morgeot Marquis de Laguiche 2017,France,Chassagne-Montrachet Premier Cru,Joseph Drouhin,4.5,69,120.56,2017,White
+302,Les Tourelles de la Crée Montagny Premier Cru 2014,France,Montagny Premier Cru,Château de la Crée,3.9,69,46.64,2014,White
+303,Milia 2018,France,Provence,Clos de l'Ours,3.7,69,21.9,2018,White
+304,Saint Joseph Fruit d'Avilleran 2017,France,Saint-Joseph,Francois Villard,4.0,70,22.0,2017,White
+305,Pouilly-Fuissé Vielles Vignes 2017,France,Pouilly-Fuissé,Daniel Pollier,3.9,70,15.98,2017,White
+306,Petit Bourgeois Sauvignon Blanc 2019,France,Val de Loire,Henri Bourgeois,3.6,70,9.95,2019,White
+307,Chardonnay Bourgogne 2017,France,Bourgogne,Paul Pillot,3.6,70,29.45,2017,White
+308,Sancerre Sauvage Blanc 2016,France,Sancerre,Pascal Jolivet,4.0,70,44.11,2016,White
+309,Puligny-Montrachet 2017,France,Puligny-Montrachet,Jacques Carillon,4.1,70,59.9,2017,White
+310,Sancerre Blanc 2019,France,Sancerre,Michel Thomas & Fils,4.0,70,14.54,2019,White
+311,Chablis Grand Cru 'Les Preuses' 2016,France,Chablis Grand Cru 'Preuses',Domaine William Fèvre,4.3,70,95.0,2016,White
+312,Réserve Chardonnay 2018,France,Limoux,Domaines Astruc,3.9,70,8.45,2018,White
+313,Vaudésir Chablis Grand Cru 2016,France,Chablis Grand Cru,Roland Lavantureux,4.3,71,122.0,2016,White
+314,Le Petiot Touraine 2016,France,Touraine,Domaine Ricard,3.7,72,9.5,2016,White
+315,Santenay Premier Cru 'Gravières' Blanc 2014,France,Santenay 1er Cru 'Les Gravières',Château de la Crée,4.1,72,69.26,2014,White
+316,Clos des Criots Pouilly-Fumé 2017,France,Pouilly-Fumé,Domaine Salmon,3.9,72,14.13,2017,White
+317,Riesling Alsace Grand Cru Steingrubler 2016,France,Alsace Grand Cru,Wolfberger,3.9,72,19.49,2016,White
+318,Puligny-Montrachet 2015,France,Puligny-Montrachet,Domaine Henri Boillot,4.0,72,65.0,2015,White
+319,Pinot Blanc 2016,France,Alsace,Hugel,3.8,73,13.71,2016,White
+320,Corbières Blanc 2018,France,Corbières,Domaine des Deux Cles,3.9,73,16.9,2018,White
+321,Sancerre La Côte Des Monts Damnés 2018,France,Sancerre,Henri Bourgeois,4.0,73,27.5,2018,White
+322,Ribet Blanc Chardonnay - Viognier 2019,France,Pays d'Oc,Arrogant Frog,3.4,73,5.8,2019,White
+323,Châteauneuf-du-Pape Blanc 2017,France,Châteauneuf-du-Pape,Domaine des Sénéchaux,4.1,74,34.73,2017,White
+324,Kastelberg Grand Cru 2016,France,Alsace Grand Cru 'Kastelberg',Marc Kreydenweiss,4.2,75,49.5,2016,White
+325,Grande Réserve Chardonnay 2018,France,Languedoc,Paul Mas,4.1,75,13.58,2018,White
+326,Riesling Alsace Signature 2018,France,Alsace,Wolfberger,3.7,75,8.28,2018,White
+327,Puligny-Montrachet 2016,France,Puligny-Montrachet,Domaine Henri Boillot,4.0,76,59.9,2016,White
+328,Côte des Roses Sauvignon Blanc 2019,France,Pays d'Oc,Gérard Bertrand,3.8,76,10.8,2019,White
+329,Santenay Premier Cru 'Gravières' Blanc 2013,France,Santenay 1er Cru 'Les Gravières',Château de la Crée,4.3,76,65.9,2013,White
+330,Bourgogne Blanc 2017,France,Bourgogne,Domaine Henri Boillot,3.9,77,32.55,2017,White
+331,Petit Chablis 2018,France,Petit Chablis,Domaine du Chardonnay,3.7,77,16.5,2018,White
+332,Reméage Blanc 2018,France,Vin de France,Les Vins de Vienne - Cuilleron-Gaillard-Villard,3.8,77,9.5,2018,White
+333,Nostre Païs Blanc 2017,France,Costières-de-Nîmes,Michel Gassier,3.9,77,13.58,2017,White
+334,Chardonnay - Terret 2018,France,Pays d'Oc,Josselin,3.3,78,8.67,2018,White
+335,Chablis Montmains 1er Cru 2015,France,Chablis 1er Cru 'Montmains',Domaine des Marronniers,4.1,78,19.9,2015,White
+336,Bourgogne Le Chardonnay de Chardonnay 2017,France,Bourgogne,Bouchard Père & Fils,3.7,78,44.59,2017,White
+337,Le Petit Cheval Bordeaux Blanc 2016,France,Bordeaux,Château Cheval Blanc,4.4,79,138.6,2016,White
+338,Belleruche Côtes-du-Rhône Blanc 2019,France,Côtes-du-Rhône,M. Chapoutier,3.7,79,10.47,2019,White
+339,Meursault-Blagny 1er Cru 'La Pièce sous le Bois' 2015,France,Blagny 1er Cru 'La Pièce sous le Bois',Domaine Sylvain Langoureau,4.3,79,85.0,2015,White
+340,Les Cépages Sauvignon Blanc 2012,France,Pays d'Oc,Baron Philippe de Rothschild,3.2,79,8.69,2012,White
+341,Blanc Secret Côtes de Provence 2016,France,Côtes de Provence,Château des Sarrins,4.1,80,16.52,2016,White
+342,Reméage Blanc 2017,France,Vin de France,Les Vins de Vienne - Cuilleron-Gaillard-Villard,3.8,80,9.5,2017,White
+343,Pouilly-Fumé La Chantereine 2018,France,Pouilly-Fumé,Henri Bourgeois,3.6,80,22.42,2018,White
+344,Condrieu Le Grand Vallon 2017,France,Condrieu,Francois Villard,4.2,80,40.9,2017,White
+345,L'Abeille de Fieuzal Pessac-Léognan Blanc 2015,France,Pessac-Léognan,Château de Fieuzal,3.9,80,27.78,2015,White
+346,GT-V Viognier 2018,France,Rhone Valley,LePlan-Vermeersch,3.9,81,15.37,2018,White
+347,Vouvray Sec 2017,France,Vouvray,Clos de Nouys,3.8,81,10.92,2017,White
+348,Gewürztraminer 2016,France,Alsace,Hugel,3.8,81,16.47,2016,White
+349,Corton-Charlemagne Grand Cru 2013,France,Corton-Charlemagne Grand Cru,Joseph Drouhin,4.5,82,193.99,2013,White
+350,Cassis Blanc 2017,France,Cassis,Ferme Blanche,3.6,82,15.9,2017,White
+351,Chardonnay Bourgogne 2016,France,Bourgogne,Ropiteau Freres,3.6,82,12.08,2016,White
+352,Villa Blanche Chardonnay 2019,France,Pays d'Oc,Calmel & Joseph,3.8,83,6.77,2019,White
+353,Chassagne-Montrachet Blanc 2017,France,Chassagne-Montrachet,Joseph Drouhin,4.2,83,58.39,2017,White
+354,Terre d'Argence Gard 2016,France,Coteaux du Pont du Gard,Château Mourgues du Grès,3.8,83,12.9,2016,White
+355,Corton-Charlemagne Grand Cru 2015,France,Corton-Charlemagne Grand Cru,Domaine des Héritiers Louis Jadot,4.6,84,221.95,2015,White
+356,Saint-Joseph Blanc 2016,France,Saint-Joseph,E. Guigal,3.7,84,25.92,2016,White
+357,Pessac-Léognan Blanc 2005,France,Pessac-Léognan,Château Smith Haut-Lafitte,4.2,84,119.95,2005,White
+358,Bourgogne Chardonnay 2017,France,Bourgogne,Olivier Leflaive,3.8,84,19.99,2017,White
+359,Château-Thébaud 2015,France,Muscadet-Sevre et Maine,Pépière,3.9,84,18.9,2015,White
+360,Les Princes Abbés Pinot Gris Alsace 2017,France,Alsace,Domaines Schlumberger,3.8,84,11.6,2017,White
+361,Pinot Gris Alsace Signature 2018,France,Alsace,Wolfberger,3.9,85,7.66,2018,White
+362,Viognier 2018,France,Côtes de Thongue,Domaine Montrose,3.6,85,8.68,2018,White
+363,Agneau Bordeaux Blanc 2018,France,Bordeaux,Baron Philippe de Rothschild,3.2,85,6.05,2018,White
+364,Viognier de Rosine 2018,France,Collines Rhodaniennes,Michel & Stéphane Ogier,3.8,87,22.9,2018,White
+365,Pessac-Léognan Blanc (Grand Cru Classé de Graves) 2011,France,Pessac-Léognan,Domaine de Chevalier,4.2,87,146.95,2011,White
+366,Pouilly-Fuissé 2018,France,Pouilly-Fuissé,Louis Latour,3.9,87,23.69,2018,White
+367,Villa Blanche Viognier 2018,France,Pays d'Oc,Calmel & Joseph,3.8,87,6.77,2018,White
+368,Montmains Chablis Premier Cru 2016,France,Chablis Premier Cru,Domaine du Chardonnay,3.8,87,27.5,2016,White
+369,Sancerre Blanc 2018,France,Sancerre,Domaine la Barbotaine,4.0,87,13.78,2018,White
+370,Satellite Sancerre 2012,France,Sancerre,Alphonse Mellot,4.1,88,35.0,2012,White
+371,Réserve Graves Blanc 2016,France,Graves,Mouton Cadet,3.6,88,12.6,2016,White
+372,Les Moulins de Turquant Blanc 2015,France,Saumur,Couly-Dutheil,3.9,89,13.69,2015,White
+373,La Galopine Condrieu 2016,France,Condrieu,Delas,3.9,89,52.57,2016,White
+374,Crozes-Hermitage Blanc 2017,France,Crozes-Hermitage,E. Guigal,3.7,90,22.33,2017,White
+375,Chablis 2016,France,Chablis,Château de Chemilly,4.0,91,15.5,2016,White
+376,Sancerre Les Romains 2017,France,Sancerre,Domaine Vacheron,4.1,91,42.9,2017,White
+377,Clos du Four Mâcon-Milly-Lamartine 2014,France,Mâcon-Milly-Lamartine,Les Héritiers du Comte Lafon,3.8,92,34.54,2014,White
+378,Les Caillardières Savennières 2016,France,Savennières,Domaine du Closel - Château des Vaults,4.0,92,34.8,2016,White
+379,Bourgogne Cuvée Saint-Vincent Blanc 2016,France,Bourgogne,Vincent Girardin,3.7,92,16.9,2016,White
+380,Aimery Chardonnay 2018,France,Pays d'Oc,Sieur d'Arques,3.3,92,5.75,2018,White
+381,Figure Libre Freestyle Blanc 2017,France,Pays d'Oc,Gayda,3.8,93,11.45,2017,White
+382,Gewürztraminer Alsace Signature 2018,France,Alsace,Wolfberger,3.9,94,9.13,2018,White
+383,Prestige Blanc 2019,France,Côtes de Provence,Minuty,4.0,94,18.79,2019,White
+384,La Griffe Bernard Chéreau Muscadet Sévre et Maine Sur Lie 2018,France,Muscadet-Sevre et Maine,Chéreau-Carré,3.7,95,7.52,2018,White
+385,Meursault 1er Cru 'Blagny' Blanc 2016,France,Meursault 1er Cru 'Blagny',Faiveley,4.4,96,63.9,2016,White
+386,Pouilly-Fuissé 2017,France,Pouilly-Fuissé,Chartron et Trébuchet,4.1,99,17.5,2017,White
+387,Clos des Prouges Pouilly-Fuissé 2017,France,Pouilly-Fuissé,J.A. Ferret,4.3,100,43.65,2017,White
+388,Sancerre Les Baronnes Blanc 2019,France,Sancerre,Henri Bourgeois,4.0,101,18.95,2019,White
+389,Clos du Four Mâcon-Milly-Lamartine 2016,France,Mâcon-Milly-Lamartine,Les Héritiers du Comte Lafon,4.0,103,28.9,2016,White
+390,Les Princes Abbés Pinot Blanc Alsace 2017,France,Alsace,Domaines Schlumberger,3.5,103,11.92,2017,White
+391,Cuvée Les Caillottes Sancerre 2018,France,Sancerre,Jean-Max Roger,4.1,103,16.5,2018,White
+392,Clos Sainte Hune Riesling Alsace 2013,France,Alsace,Trimbach,4.5,103,210.45,2013,White
+393,Sauvignon Blanc 2018,France,Loire Valley,Domaine Gibault - Danielle de L'Ansee,3.5,103,7.7,2018,White
+394,Saint-Aubin 2017,France,Saint-Aubin,Domaine Sylvain Langoureau,3.9,104,21.0,2017,White
+395,Pinot Blanc Alsace Signature 2018,France,Alsace,Wolfberger,3.6,104,6.69,2018,White
+396,Bourgogne Chardonnay (Vieilles Vignes) 2018,France,Bourgogne,Albert Bichot,3.9,105,13.8,2018,White
+397,Terroir Littoral Sauvignon Blanc 2018,France,Pays d'Oc,Fortant,3.4,105,6.59,2018,White
+398,Bourgogne Chardonnay (La Vignée) 2018,France,Bourgogne,Bouchard Père & Fils,3.8,105,16.39,2018,White
+399,Riesling Alsace 2018,France,Alsace,Trimbach,3.6,105,14.5,2018,White
+400,Pouilly-Fumé Indigene 2018,France,Pouilly-Fumé,Pascal Jolivet,4.0,106,43.65,2018,White
+401,Clos de la Bergerie 2014,France,Savennières-Roche-aux-Moines,Nicolas Joly,4.0,106,47.9,2014,White
+402,Viognier - Sauvignon 2019,France,Pays d'Oc,Paul Mas,3.9,106,5.79,2019,White
+403,Pessac-Léognan Blanc 2006,France,Pessac-Léognan,Château Haut-Bergey,3.8,107,18.5,2006,White
+404,Val de Montferrand Grande Cuvée Blanc 2016,France,Vin de Pays,Domaine de l'Hortus,3.9,108,17.95,2016,White
+405,Riesling Tradition 2018,France,Alsace,Emile Beyer,3.8,109,13.29,2018,White
+406,R de Rieussec 2017,France,Bordeaux,Château Rieussec,3.7,110,30.62,2017,White
+407,Quincy Haute Victoire 2018,France,Quincy,Henri Bourgeois,3.8,110,15.7,2018,White
+408,Chablis Premier Cru 'Vau de Vey' 2018,France,Chablis 1er Cru 'Vau de Vey',Domaine des Malandes,4.0,110,27.78,2018,White
+409,Baron de L Pouilly-Fumé 2016,France,Pouilly-Fumé,de Ladoucette,4.4,110,76.43,2016,White
+410,Puligny-Montrachet 'Les Corvées des Vignes' 2015,France,Puligny-Montrachet,Philippe Chavy,4.3,111,69.99,2015,White
+411,Bandol Blanc 2015,France,Bandol,La Bastide Blanche,3.5,112,18.9,2015,White
+412,Pinot Gris Alsace Réserve Personnelle 2015,France,Alsace,Trimbach,4.0,112,33.59,2015,White
+413,Pessac-Léognan Blanc (Grand Cru Classé de Graves) 2014,France,Pessac-Léognan,Château Malartic-Lagravière,4.0,112,66.0,2014,White
+414,Beaujolais Blanc 2018,France,Beaujolais,Terres Dorées,3.7,112,12.9,2018,White
+415,Grand Vin La Clape Blanc 2018,France,La Clape,Château l'Hospitalet,3.7,113,36.85,2018,White
+416,Chablis 2018,France,Chablis,Louis Michel & Fils,4.0,113,23.5,2018,White
+417,Petit Chablis 2017,France,Petit Chablis,Domaine des Marronniers,3.9,114,13.3,2017,White
+418,Réserve Languedoc Blanc 2018,France,Languedoc,Paul Mas,3.8,115,8.76,2018,White
+419,Thauvenay Sancerre Blanc 2014,France,Sancerre,Domaine Masson-Blondelet,3.9,115,15.5,2014,White
+420,Drouhin - Vaudon Chablis 2018,France,Chablis,Joseph Drouhin,3.7,115,17.07,2018,White
+421,Chablis 2018,France,Chablis,Gerard Tremblay,3.6,116,13.91,2018,White
+422,Chablis 1er Cru 'Côte de Lechet' 2018,France,Chablis 1er Cru 'Côte de Lechet',Bernard Defaix,4.1,116,24.9,2018,White
+423,Vire-Clessé 2017,France,Viré-Clessé,Les Héritiers du Comte Lafon,4.0,119,29.9,2017,White
+424,Chardonnay Le Bourgogne 2016,France,Bourgogne,Chanson,3.6,120,12.6,2016,White
+425,Gewurztraminer Classic 2018,France,Alsace,Bestheim,3.8,121,9.5,2018,White
+426,Mâcon-Bussières Les Clos 2018,France,Mâcon-Bussières,Joseph Drouhin,3.8,121,13.55,2018,White
+427,Reserve Spéciale Chardonnay 2018,France,Pays d'Oc,Philibert du Charme,3.9,122,6.9,2018,White
+428,Vieilles Vignes Côtes Catalanes Blanc 2017,France,Côtes Catalanes,Domaine du Clos des Fées,3.8,123,23.99,2017,White
+429,Allnatt Vieilles Vignes Chardonnay 2018,France,Pays d'Oc,Paul Mas,4.1,124,11.25,2018,White
+430,L'Esprit de l'Horizon Blanc 2015,France,Côtes Catalanes,Domaine de l'Horizon,3.9,125,17.45,2015,White
+431,Gewürztraminer 2016,France,Alsace,Cleebourg,3.9,126,11.89,2016,White
+432,Les Maranches Mâcon-Uchizy 2015,France,Mâcon-Uchizy,Les Héritiers du Comte Lafon,3.9,127,25.9,2015,White
+433,Henry Greuzard Mâcon la Roche Vineuse 2018,France,Mâcon-La Roche-Vineuse,Château de la Greffière,4.0,129,8.72,2018,White
+434,Sancerre Les Caillottes Blanc 2018,France,Sancerre,Pascal Jolivet,4.0,129,27.11,2018,White
+435,Riesling Classic 2018,France,Alsace,Bestheim,3.6,129,8.65,2018,White
+436,Chablis 2017,France,Chablis,Domaine des Genèves,3.8,130,12.43,2017,White
+437,Les Princes Abbés Gewürztraminer Alsace 2017,France,Alsace,Domaines Schlumberger,3.9,130,15.5,2017,White
+438,Bourgogne Chardonnay 2017,France,Bourgogne,Laroche,3.7,132,13.58,2017,White
+439,Les Tourelles de la Crée Montagny Premier Cru 2015,France,Montagny Premier Cru,Château de la Crée,3.9,132,43.28,2015,White
+440,Edmond Sancerre 2016,France,Sancerre,Alphonse Mellot,4.2,133,43.82,2016,White
+441,Saint Peray Version 2016,France,Saint-Péray,Francois Villard,3.9,134,20.0,2016,White
+442,Riesling Alsace Grand Cru 'Saering' 2017,France,Alsace Grand Cru,Domaines Schlumberger,3.9,134,19.4,2017,White
+443,Tutti Frutti Blanc 2018,France,Pays d'Oc,Arrogant Frog,3.9,135,5.36,2018,White
+444,Chardonnay Bourgogne 2015,France,Bourgogne,Ropiteau Freres,3.8,137,15.95,2015,White
+445,Grande Réserve Sancerre Blanc 2019,France,Sancerre,Henri Bourgeois,3.9,139,29.05,2019,White
+446,Domaine de Saint-Pierre Sancerre Blanc 2018,France,Sancerre,Domaine Pierre Prieur & Fils,3.9,139,16.0,2018,White
+447,Le Classique Chablis 2016,France,Chablis,Pascal Bouchard,3.7,140,17.9,2016,White
+448,Marsanne 2017,France,Languedoc-Roussillon,Paul Mas,3.6,141,5.74,2017,White
+449,Rully Blanc 2018,France,Rully,Joseph Drouhin,3.9,143,19.02,2018,White
+450,Chardonnay Bourgogne 2018,France,Bourgogne,Labouré-Roi,3.6,143,12.99,2018,White
+451,Les Maranches Mâcon-Uchizy 2014,France,Mâcon-Uchizy,Les Héritiers du Comte Lafon,3.7,143,31.18,2014,White
+452,Chablis Premier Cru 'Vau de Vey' 2017,France,Chablis 1er Cru 'Vau de Vey',Jean-Marc Brocard,4.1,146,29.55,2017,White
+453,Puligny-Montrachet 2015,France,Puligny-Montrachet,Faiveley,4.2,146,58.9,2015,White
+454,Châteauneuf-du-Pape Blanc 2016,France,Châteauneuf-du-Pape,Domaine de Beaurenard,4.0,147,49.0,2016,White
+455,Sancerre Blanc 2018,France,Sancerre,Château de Sancerre,4.0,148,20.36,2018,White
+456,Clos Mireille Blanc de Blancs 2018,France,Côtes de Provence,Domaines Ott,4.0,150,27.5,2018,White
+457,Classic Gewürztraminer 2016,France,Alsace,Hugel,3.7,150,14.75,2016,White
+458,Bourgogne Aligoté 2016,France,Bourgogne Aligoté,Olivier Leflaive,3.8,150,14.5,2016,White
+459,Les Chailloux Silex Pouilly-Fumé 2016,France,Pouilly-Fumé,Domaine Chatelain,3.8,151,14.1,2016,White
+460,Chante-Alouette Hermitage Blanc 2017,France,Hermitage,M. Chapoutier,4.3,154,58.1,2017,White
+461,Bourgogne Chardonnay 2017,France,Bourgogne,Faiveley,3.8,155,13.9,2017,White
+462,Les Fumées Blanches 2019,France,Vin de France,François Lurton,3.5,155,7.89,2019,White
+463,Clos du Papillon Savennières 2015,France,Savennières,Domaine du Closel - Château des Vaults,4.0,155,67.45,2015,White
+464,L'Églantière Chablis 2018,France,Chablis,Jean Durup,3.9,156,16.46,2018,White
+465,Chablis 1er Cru 'Montee de Tonnerre' 2016,France,Chablis 1er Cru 'Montee de Tonnerre',Billaud-Simon,4.1,156,42.8,2016,White
+466,Génération Dix-Neuf Sancerre 2013,France,Sancerre,Alphonse Mellot,4.1,156,38.89,2013,White
+467,Vieilles Vignes Châteauneuf-du-Pape Blanc 2014,France,Châteauneuf-du-Pape,Château de Beaucastel,4.6,158,135.5,2014,White
+468,Les Maranches Mâcon-Uchizy 2016,France,Mâcon-Uchizy,Les Héritiers du Comte Lafon,3.8,158,25.9,2016,White
+469,Pouilly-Fuissé 2018,France,Pouilly-Fuissé,Joseph Drouhin,3.9,159,22.32,2018,White
+470,Chassagne-Montrachet Blanc 2014,France,Chassagne-Montrachet,Domaine Michel Niellon,4.1,160,49.95,2014,White
+471,Prestige Blanc 2018,France,Côtes de Provence,Minuty,4.1,160,20.99,2018,White
+472,Pouilly-Vinzelles 2017,France,Pouilly-Vinzelles,Joseph Drouhin,3.8,161,19.39,2017,White
+473,Mâcon-Lugny Les Genievres 2018,France,Mâcon-Lugny,Louis Latour,3.9,162,10.63,2018,White
+474,Beaune 1er Cru 'Clos des Mouches' Blanc 2016,France,Beaune 1er Cru 'Le Clos des Mouches',Joseph Drouhin,4.5,162,129.0,2016,White
+475,Riesling 2017,France,Alsace,Marcel Deiss,3.8,162,23.9,2017,White
+476,Condrieu Invitare 2017,France,Condrieu,M. Chapoutier,4.1,162,47.37,2017,White
+477,Châteauneuf-du-Pape Blanc 2017,France,Châteauneuf-du-Pape,Château de Beaucastel,4.3,163,73.11,2017,White
+478,Riesling - Muscat - Pinot Gris Alsace (W)3 2016,France,Alsace,Wolfberger,3.7,164,8.28,2016,White
+479,Caroline Graves 2011,France,Graves,Château de Chantegrive,3.8,165,23.0,2011,White
+480,Chardonnay 2018,France,Pays d'Oc,Domaines Astruc,3.7,165,6.5,2018,White
+481,Viognier Secret de Famille 2018,France,Rhone Valley,Paul Jaboulet Aîné,3.8,166,9.3,2018,White
+482,Clos Sainte Hune Riesling Alsace 2012,France,Alsace,Trimbach,4.5,166,193.03,2012,White
+483,Aile d'Argent Blanc Bordeaux 2016,France,Bordeaux,Château Mouton Rothschild,4.1,166,100.0,2016,White
+484,Château Grenouilles Chablis Grand Cru 2015,France,Chablis Grand Cru,La Chablisienne,4.3,169,54.0,2015,White
+485,Chablis Tête d'Or 2016,France,Chablis,Billaud-Simon,4.0,170,24.27,2016,White
+486,Sancerre Blanc 2019,France,Sancerre,Bernard Reverdy & Fils,3.8,172,17.45,2019,White
+487,Mâcon-La Roche-Vineuse 2015,France,Mâcon-La Roche-Vineuse,Château de la Greffière,3.7,173,9.6,2015,White
+488,Harmonie de Gascogne Blanc 2019,France,Côtes de Gascogne,Domaine de Pellehaut,3.9,175,5.52,2019,White
+489,Chablis 2018,France,Chablis,Domaine Hamelin,3.8,175,15.8,2018,White
+490,Vieilles Vignes Chardonnay 2018,France,Val de Loire,Moulin d'Argent,3.7,176,8.59,2018,White
+491,Côté Chardonnay - Sauvignon 2018,France,Gascogne,Domaine du Tariquet,3.9,176,8.95,2018,White
+492,Riesling Alsace Sélection de Vieilles Vignes 2016,France,Alsace,Trimbach,3.9,176,26.18,2016,White
+493,Bourgogne Couvent Des Jacobins Blanc 2018,France,Bourgogne,Louis Jadot,3.9,177,16.48,2018,White
+494,Mâcon-Milly-Lamartine 2017,France,Mâcon-Milly-Lamartine,Les Héritiers du Comte Lafon,4.0,177,20.9,2017,White
+495,Mâcon-Villages 2015,France,Mâcon-Villages,Les Héritiers du Comte Lafon,3.8,178,22.22,2015,White
+496,Collection Unique 2018,France,Côtes de Gascogne,Uby,3.9,179,5.8,2018,White
+497,Riesling Réserve 2018,France,Alsace,Lucien Albrecht,3.9,181,9.57,2018,White
+498,Bordeaux Blanc 2018,France,Bordeaux,Mouton Cadet,3.6,186,10.74,2018,White
+499,Grande Cuvée Chablis 1er Cru 2017,France,Chablis Premier Cru,La Chablisienne,3.9,187,22.9,2017,White
+500,Clairette du Languedoc Adissan Art de Vivre 2018,France,Clairette de Languedoc,Gérard Bertrand,3.8,188,15.95,2018,White
+501,Chablis 2015,France,Chablis,Chanson,3.7,188,27.15,2015,White
+502,Chateau de Fontaine-Audon Sancerre 2018,France,Sancerre,Langlois-Chateau,3.9,189,19.9,2018,White
+503,Sancerre D'Antan 2014,France,Sancerre,Henri Bourgeois,4.3,192,38.0,2014,White
+504,Domaine de L'Aigle Chardonnay Limoux 2017,France,Limoux,Gérard Bertrand,3.9,194,18.08,2017,White
+505,Macon-Lugny 2018,France,Mâcon-Lugny,Louis Latour,3.8,194,13.55,2018,White
+506,Terroir Littoral Chardonnay 2018,France,Pays d'Oc,Fortant,3.3,194,6.86,2018,White
+507,Chardonnay 2019,France,Pays d'Oc,Laroche,3.4,194,8.45,2019,White
+508,Aussières Blanc (Chardonnay) 2018,France,Pays d'Oc,Château d’Aussières,3.6,195,7.9,2018,White
+509,Le Canon du Maréchal Muscat - Viognier 2018,France,Côtes Catalanes,Cazes,3.7,196,9.35,2018,White
+510,Pouilly-Fumé 2017,France,Pouilly-Fumé,Le Domaine Saget,3.6,196,15.9,2017,White
+511,Sancerre Le MD De Bourgeois 2017,France,Sancerre,Henri Bourgeois,4.1,197,24.95,2017,White
+512,Collection Unique 2019,France,Côtes de Gascogne,Uby,3.9,198,5.99,2019,White
+513,Chardonnay 2018,France,Pays d'Oc,La Chevalière,3.7,199,7.89,2018,White
+514,Légende (R) Bordeaux Blanc 2018,France,Bordeaux,Barons de Rothschild (Lafite),3.6,199,9.9,2018,White
+515,Crozes Hermitage Domaine Mule Blanche 2016,France,Crozes-Hermitage,Paul Jaboulet Aîné,3.9,201,38.68,2016,White
+516,Sauvignon Côtes de Gascogne 2018,France,Côtes de Gascogne,Domaine du Tariquet,3.6,201,7.0,2018,White
+517,Vire-Clessé 2014,France,Viré-Clessé,Les Héritiers du Comte Lafon,4.0,203,36.33,2014,White
+518,Chardonnay 2017,France,Pays d'Oc,Baron Philippe de Rothschild,3.4,204,8.69,2017,White
+519,Côtes-du-Rhône Blanc 2018,France,Côtes-du-Rhône,E. Guigal,3.6,211,9.4,2018,White
+520,Meursault 2017,France,Meursault,Joseph Drouhin,4.2,215,56.54,2017,White
+521,Bourgogne Aligoté 2018,France,Bourgogne Aligoté,Joseph Drouhin,3.6,215,10.62,2018,White
+522,Domaine de L'Aigle Chardonnay Limoux 2018,France,Limoux,Gérard Bertrand,4.1,215,17.99,2018,White
+523,Chablis 2016,France,Chablis,Chanson,3.8,216,18.2,2016,White
+524,Vire-Clessé 2016,France,Viré-Clessé,Les Héritiers du Comte Lafon,4.0,222,29.9,2016,White
+525,Novellum Chardonnay 2018,France,Languedoc-Roussillon,Domaine Lafage,3.8,222,8.29,2018,White
+526,Pouilly-Fumé 2018,France,Pouilly-Fumé,Château Favray,4.0,222,14.13,2018,White
+527,Réserve Spéciale Chardonnay 2018,France,Pays d'Oc,Gérard Bertrand,3.7,226,8.32,2018,White
+528,Chardonnay 2018,France,Pays d'Oc,Baron Philippe de Rothschild,3.5,226,8.78,2018,White
+529,Les Tourelles de la Crée Montagny Premier Cru 2016,France,Montagny Premier Cru,Château de la Crée,4.1,227,43.28,2016,White
+530,Meursault 2017,France,Meursault,Louis Jadot,4.3,229,56.26,2017,White
+531,Bordeaux Blanc 2018,France,Bordeaux,Baron Philippe de Rothschild,3.2,231,9.95,2018,White
+532,Chablis 2018,France,Chablis,Simonnet-Febvre,3.8,238,19.69,2018,White
+533,Chablis 2018,France,Chablis,Domaine William Fèvre,3.9,238,24.99,2018,White
+534,Pouilly-Fuissé 2017,France,Pouilly-Fuissé,J.A. Ferret,4.1,239,36.52,2017,White
+535,Côte des Roses Chardonnay 2018,France,Pays d'Oc,Gérard Bertrand,3.6,239,10.4,2018,White
+536,Pouilly-Vinzelles 2016,France,Pouilly-Vinzelles,Joseph Drouhin,3.9,239,24.01,2016,White
+537,Condrieu 2017,France,Condrieu,E. Guigal,4.0,240,37.97,2017,White
+538,Chablis Premier Cru 'Montée de Tonnerre' 2016,France,Chablis Premier Cru,Louis Michel & Fils,4.2,241,36.99,2016,White
+539,Sancerre Blanc 2018,France,Sancerre,Domaine du Nozay,3.8,244,17.84,2018,White
+540,Sancerre Blanc 2018,France,Sancerre,Comte Lafond,4.0,244,28.9,2018,White
+541,Corton-Charlemagne Grand Cru 1999,France,Corton-Charlemagne Grand Cru,Bonneau du Martray,4.2,246,217.95,1999,White
+542,Blanc 2019,France,Vin de France,La Vieille Ferme,3.6,246,6.4,2019,White
+543,Graves Blanc 2012,France,Graves,Clos Floridène,3.8,253,22.32,2012,White
+544,Viognier 2018,France,Rhone Valley,Paul Jaboulet Aîné,3.6,254,7.7,2018,White
+545,Crozes Hermitage Domaine Mule Blanche 2017,France,Crozes-Hermitage,Paul Jaboulet Aîné,3.9,254,37.79,2017,White
+546,Pinot Gris Alsace Réserve Personnelle 2013,France,Alsace,Trimbach,4.1,255,31.03,2013,White
+547,Mâcon-Milly-Lamartine 2015,France,Mâcon-Milly-Lamartine,Les Héritiers du Comte Lafon,3.9,260,25.92,2015,White
+548,Vouvray Classic 2018,France,Vouvray,Marc Brédif,4.0,262,14.9,2018,White
+549,Chablis 2017,France,Chablis,Domaine Jean Collet,4.0,262,15.5,2017,White
+550,Cuvée Silex Vouvray 2018,France,Vouvray,Vigneau-Chevreau,3.9,263,13.5,2018,White
+551,Mâcon-Villages 2018,France,Mâcon-Villages,Les Héritiers du Comte Lafon,3.8,265,18.9,2018,White
+552,Réserve Spéciale Viognier 2017,France,Pays d'Oc,Gérard Bertrand,3.6,266,9.56,2017,White
+553,Montagny 1er Cru La Grande Roche 2018,France,Montagny Premier Cru,Louis Latour,3.9,266,17.45,2018,White
+554,Légende (R) Bordeaux Blanc 2017,France,Bordeaux,Barons de Rothschild (Lafite),3.8,266,12.14,2017,White
+555,Gewürztraminer Réserve 2018,France,Alsace,Lucien Albrecht,4.0,267,11.36,2018,White
+556,Hermitage Le Chevalier de Sterimberg 2015,France,Hermitage,Paul Jaboulet Aîné,4.2,272,82.48,2015,White
+557,Petit Chablis 2018,France,Petit Chablis,Domaine Hamelin,3.9,273,12.9,2018,White
+558,Sauvignon Blanc 2018,France,Pays d'Oc,Paul Mas,3.7,274,5.64,2018,White
+559,Clos de la Coulée de Serrant 2015,France,Savennières-Coulée-de-Serrant,Nicolas Joly,4.2,275,72.5,2015,White
+560,Saint-Véran 2018,France,Saint-Véran,Joseph Drouhin,3.8,277,16.6,2018,White
+561,Mâcon-Milly-Lamartine 2016,France,Mâcon-Milly-Lamartine,Les Héritiers du Comte Lafon,3.8,279,22.5,2016,White
+562,Chablis 2018,France,Chablis,Domaine des Malandes,3.8,280,16.09,2018,White
+563,Le G de Guiraud Bordeaux Blanc Sec 2018,France,Bordeaux,Château Guiraud,3.9,282,19.45,2018,White
+564,Sauvignon Touraine 2018,France,Touraine,Domaine de la Chaise,4.0,282,7.4,2018,White
+565,Sauvignon Blanc Bordeaux 2018,France,Bordeaux,Dourthe N°1,3.6,285,7.7,2018,White
+566,Corton-Charlemagne Grand Cru 2015,France,Corton-Charlemagne Grand Cru,Louis Latour,4.5,288,116.0,2015,White
+567,Sauvignon Blanc 2017,France,Pays d'Oc,Les Jamelles,3.5,290,6.25,2017,White
+568,Bourgogne Chardonnay 2018,France,Bourgogne,Louis Latour,3.8,298,13.29,2018,White
+569,La Jalousie Savennières 2015,France,Savennières,Domaine du Closel - Château des Vaults,4.1,301,29.15,2015,White
+570,Chablis 2018,France,Chablis,Bernard Defaix,3.9,303,17.9,2018,White
+571,Bourgogne Chardonnay (La Vignée) 2017,France,Bourgogne,Bouchard Père & Fils,3.7,306,16.74,2017,White
+572,Château Grenouilles Chablis Grand Cru 2014,France,Chablis Grand Cru,La Chablisienne,4.2,307,63.54,2014,White
+573,Pouilly-Fumé En Travertin 2018,France,Pouilly-Fumé,Henri Bourgeois,4.0,309,18.95,2018,White
+574,Chablis 2018,France,Chablis,Olivier Tricon,4.1,310,14.55,2018,White
+575,Les Vieux Clos 2014,France,Savennières,Nicolas Joly,3.7,311,32.5,2014,White
+576,Chardonnay 2018,France,Pays d'Oc,Paul Mas,3.7,311,5.5,2018,White
+577,Viognier 2018,France,Pays d'Oc,Les Jamelles,3.6,327,6.5,2018,White
+578,Chant des Vignes Jurançon Sec 2017,France,Jurançon,Domaine Cauhapé,3.8,331,9.83,2017,White
+579,Les Princes Abbés Riesling Alsace 2016,France,Alsace,Domaines Schlumberger,3.7,333,11.6,2016,White
+580,Kritt Pinot Blanc 2017,France,Alsace,Marc Kreydenweiss,3.9,338,14.3,2017,White
+581,Chablis (Les Grands Terroirs) 2017,France,Chablis,Samuel Billaud,4.0,340,24.0,2017,White
+582,Les Princes Abbés Pinot Blanc Alsace 2016,France,Alsace,Domaines Schlumberger,4.0,341,8.9,2016,White
+583,Bordeaux Sauvignon Blanc 2018,France,Bordeaux,Mouton Cadet,3.4,349,11.36,2018,White
+584,Coteaux Varois en Provence Blanc 2018,France,Coteaux Varois en Provence,Miraval,3.9,356,17.8,2018,White
+585,Condrieu La Doriane 2017,France,Condrieu,E. Guigal,4.3,359,84.0,2017,White
+586,No. 3 Colombard - Sauvignon 2019,France,Côtes de Gascogne,Uby,4.0,359,5.99,2019,White
+587,Les Belles Vignes Sancerre Blanc 2015,France,Sancerre,Fournier Pere & Fils,3.9,363,21.44,2015,White
+588,Lune d'Argent 2013,France,Bordeaux,Clos des Lunes,3.6,371,16.9,2013,White
+589,Côtes De Gascogne Classic 2019,France,Côtes de Gascogne,Domaine du Tariquet,3.5,374,5.5,2019,White
+590,Côte des Roses Blanc 2018,France,Languedoc,Gérard Bertrand,3.7,377,10.42,2018,White
+591,Sancerre Blanc 2017,France,Sancerre,La Perrière,3.9,384,17.9,2017,White
+592,Chablis 2018,France,Chablis,Domaine Nathalie et Gilles Fevre,4.0,386,17.5,2018,White
+593,Pouilly-Fumé 2018,France,Pouilly-Fumé,Château de Tracy,4.1,393,22.29,2018,White
+594,Pinot Blanc Alsace 2017,France,Alsace,Trimbach,3.7,403,10.56,2017,White
+595,Colombard - Sauvignon Côtes de Gascogne 2019,France,Côtes de Gascogne,Horgelus,4.1,408,5.43,2019,White
+596,Villa Blanche Chardonnay 2018,France,Pays d'Oc,Calmel & Joseph,3.8,412,6.77,2018,White
+597,Laforet Bourgogne Chardonnay 2018,France,Bourgogne,Joseph Drouhin,4.0,419,12.19,2018,White
+598,Corton-Charlemagne Grand Cru 2008,France,Corton-Charlemagne Grand Cru,Bonneau du Martray,4.5,421,263.9,2008,White
+599,Riesling Grossi Laüe 2011,France,Alsace,Hugel,4.2,422,58.44,2011,White
+600,Pinot Gris Alsace Réserve 2016,France,Alsace,Trimbach,3.8,433,17.45,2016,White
+601,Classic Pinot Gris 2015,France,Alsace,Hugel,3.8,439,13.6,2015,White
+602,Classic Riesling 2016,France,Alsace,Hugel,3.7,446,16.52,2016,White
+603,Pouilly-Fumé En Travertin 2017,France,Pouilly-Fumé,Henri Bourgeois,4.1,447,18.95,2017,White
+604,Mademoiselle de T Pouilly-Fumé 2018,France,Pouilly-Fumé,Château de Tracy,4.1,447,18.29,2018,White
+605,Coteaux Varois en Provence Blanc 2015,France,Coteaux Varois en Provence,Miraval,4.0,458,20.5,2015,White
+606,Chablis 2018,France,Chablis,Jean-Marc Brocard,3.8,460,17.9,2018,White
+607,Chablis 2016,France,Chablis,Christian Moreau Pere & Fils,3.9,464,23.0,2016,White
+608,Baron de L Pouilly-Fumé 2015,France,Pouilly-Fumé,de Ladoucette,4.4,479,97.04,2015,White
+609,Blanc 2018,France,Pays d'Oc,Claude Val,3.8,486,4.95,2018,White
+610,Sancerre Blanc 2017,France,Sancerre,Domaine du Nozay,3.8,493,37.63,2017,White
+611,Vouvray Classic 2017,France,Vouvray,Marc Brédif,3.9,500,17.85,2017,White
+612,Condrieu La Doriane 2016,France,Condrieu,E. Guigal,4.2,511,82.0,2016,White
+613,Côtes du Rhône Réserve Blanc 2016,France,Côtes-du-Rhône,Les Dauphins,3.5,531,6.85,2016,White
+614,Châteauneuf-du-Pape Les Sinards Blanc 2017,France,Châteauneuf-du-Pape,Famille Perrin,4.1,532,30.74,2017,White
+615,Mâcon-Villages Blanc 2018,France,Mâcon-Villages,Louis Jadot,3.8,536,14.54,2018,White
+616,Corton-Charlemagne Grand Cru 2009,France,Corton-Charlemagne Grand Cru,Bonneau du Martray,4.4,541,249.95,2009,White
+617,Sancerre Blanc 2017,France,Sancerre,Château de Sancerre,3.9,543,33.87,2017,White
+618,Côtes-du-Rhône Blanc 2017,France,Côtes-du-Rhône,E. Guigal,3.5,544,13.04,2017,White
+619,Le Finage Chablis 2017,France,Chablis,La Chablisienne,3.7,557,22.78,2017,White
+620,Chardonnay 2018,France,Vin de France,Maison de La Villette,3.9,558,6.33,2018,White
+621,Sancerre Blanc 2018,France,Sancerre,Domaine Vacheron,4.0,569,24.0,2018,White
+622,Chardonnay 2018,France,Pays d'Oc,Les Jamelles,3.6,570,5.69,2018,White
+623,Grande Réserve Sancerre Blanc 2018,France,Sancerre,Henri Bourgeois,3.9,583,26.04,2018,White
+624,Grand Régnard Chablis 2018,France,Chablis,Régnard,4.3,596,36.9,2018,White
+625,Gentil 2018,France,Alsace,Hugel,3.8,601,9.6,2018,White
+626,Pouilly-Fuissé 2018,France,Pouilly-Fuissé,Louis Jadot,4.1,621,29.37,2018,White
+627,Pouilly-Fumé 2018,France,Pouilly-Fumé,Pascal Jolivet,4.1,627,22.3,2018,White
+628,Ardèche Chardonnay 2017,France,Ardèche,Louis Latour,3.6,667,7.31,2017,White
+629,Grand Ardèche Chardonnay 2017,France,Ardèche,Louis Latour,4.0,679,10.63,2017,White
+630,Chardonnay 2018,France,Pays d'Oc,Laroche,3.4,719,8.25,2018,White
+631,Mâcon-Villages 2018,France,Mâcon-Villages,Joseph Drouhin,3.8,731,11.4,2018,White
+632,Mâcon-Villages 2018,France,Mâcon-Villages,Joseph Drouhin,3.8,731,13.6,2018,White
+633,Pouilly-Fumé 2018,France,Pouilly-Fumé,de Ladoucette,4.0,737,32.9,2018,White
+634,Riesling Alsace Cuvée Frédéric Emile 2011,France,Alsace,Trimbach,3.9,760,44.61,2011,White
+635,Condrieu 2016,France,Condrieu,E. Guigal,4.0,776,52.01,2016,White
+636,Chablis ‘Saint Martin’ 2017,France,Chablis,Domaine Laroche,3.8,894,25.24,2017,White
+637,Sauvignon Blanc Attitude 2018,France,Touraine,Pascal Jolivet,3.8,901,12.51,2018,White
+638,Chablis 2018,France,Chablis,William Fèvre,3.8,904,19.79,2018,White
+639,Pessac-Léognan Blanc (Grand Cru Classé de Graves) 2016,France,Pessac-Léognan,Château Carbonnieux,4.1,1001,39.9,2016,White
+640,Classic Riesling 2015,France,Alsace,Hugel,3.7,1006,13.6,2015,White
+641,Petit Bourgeois Sauvignon Blanc 2018,France,Val de Loire,Henri Bourgeois,3.7,1011,9.95,2018,White
+642,Chablis ‘Saint Martin’ 2018,France,Chablis,Domaine Laroche,3.8,1216,24.99,2018,White
+643,Gewürztraminer Alsace 2016,France,Alsace,Trimbach,3.9,1254,16.9,2016,White
+644,Chablis ‘Les Chanoines’ 2018,France,Chablis,Laroche,3.7,1267,21.99,2018,White
+645,Pouilly-Fuissé 2017,France,Pouilly-Fuissé,Louis Jadot,4.0,1424,28.13,2017,White
+646,Gentil 2017,France,Alsace,Hugel,3.8,1462,12.03,2017,White
+647,Chablis 2017,France,Chablis,William Fèvre,3.8,1525,21.35,2017,White
+648,Domaine Sainte Claire Chablis 2018,France,Chablis,Jean-Marc Brocard,3.9,1554,19.2,2018,White
+649,Belleruche Côtes-du-Rhône Blanc 2017,France,Côtes-du-Rhône,M. Chapoutier,3.7,1675,10.91,2017,White
+650,Drouhin - Vaudon Chablis Réserve De Vaudon 2018,France,Chablis,Joseph Drouhin,4.0,1721,21.34,2018,White
+651,Pouilly-Fumé 2017,France,Pouilly-Fumé,de Ladoucette,4.1,1903,68.0,2017,White
+652,Chablis 2015,France,Chablis,William Fèvre,3.8,2487,22.39,2015,White
